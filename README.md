@@ -17,7 +17,7 @@ This repository hosts various projects that I've done while attending [CSU - Fre
 
 ## Fun facts
 - I'm in to cars [B15 Nissan Sentra Discord 2000-2006](https://discord.gg/4SrsB4m)
-- Retro gaming and building retro systems.
-- Advocate game preservation
+- I like playing retro gaming and building retro systems.
+- Advocate for game preservation
 - I'm sure there's more stuff I just can't think of it. 😄
 - My personal website that's a work in progress https://www.revworks.dev
