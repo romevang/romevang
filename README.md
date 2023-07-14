@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **romevang/romevang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋 My name? Is Romeo.
+This repository hosts various projects that I've done while attending [CSU - Fresno](https://csm.fresnostate.edu/csci/) as an Undergrad (Class of 2023). Overtime, projects of personal interest will appear in the repository. The goal is to create interesting and/or useful software.
+
+## Fun facts
+- I'm in to cars [B15 Nissan Sentra Discord 2000-2006](https://discord.gg/4SrsB4m)
+- Retro gaming and building retro systems.
+- Advocate game preservation
+- I'm sure there's more stuff I just can't think of it. 😄
+- My personal website that's a work in progress https://www.revworks.dev
